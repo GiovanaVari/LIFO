@@ -1,0 +1,15 @@
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.csproj.AssemblyReference.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.AssemblyInfoInputs.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.AssemblyInfo.cs
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.csproj.CoreCompileInputs.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\bin\Debug\net7.0\lifo.exe
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\bin\Debug\net7.0\lifo.deps.json
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\bin\Debug\net7.0\lifo.runtimeconfig.json
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\bin\Debug\net7.0\lifo.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\bin\Debug\net7.0\lifo.pdb
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\refint\lifo.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.pdb
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\lifo.genruntimeconfig.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\lifo\obj\Debug\net7.0\ref\lifo.dll
